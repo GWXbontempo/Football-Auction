@@ -16,7 +16,7 @@ Alisson Becker|Brasil|1992|Liverpool|GK||46,20,73,40,92,79
 Gianluigi Donnarumma|Itália|1999|Manchester City|GK||46,20,63,35,94,84
 Marc-André ter Stegen|Alemanha|1992|Barcelona|GK||42,20,78,45,86,75
 Jan Oblak|Eslovênia|1993|Atlético de Madrid|GK||43,20,59,35,93,81
-Virgil van Dijk|Holanda|1991|Liverpool|ZAG||76,60,75,70,90,88
+Virgil van Dijk|Holanda|1991|Liverpool|ZAG||70,60,72,70,90,85
 Rúben Dias|Portugal|1997|Manchester City|ZAG||71,45,71,66,94,86
 William Saliba|França|2001|Arsenal|ZAG||81,40,71,71,95,85
 Alessandro Bastoni|Itália|1999|Inter de Milão|LE|ZAG|76,56,88,79,96,83
