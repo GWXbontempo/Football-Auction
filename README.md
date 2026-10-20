@@ -1,6 +1,6 @@
 # ⚽ Football Auction
 
-Um jogo web de leilão de jogadores de futebol contra IA, desenvolvido em vanilla JavaScript. Gerencie um orçamento fictício, lance em jogadores reais e monte um time estratégico.
+Um jogo web de leilão de jogadores de futebol contra IA. Gerencie um orçamento fictício, lance em jogadores reais e monte um time estratégico.
 
 *Jogue Agora!!*
 *https://gwxbontempo.github.io/Football-Auction/*
@@ -158,20 +158,6 @@ Em `index.html`, procure por `budget:185` e altere o número.
 
 ### Adicionar/remover formações
 Edite a constante `FORM` em `index.html` com a nova estrutura de vagas.
-
----
-
-## 📝 Patch Notes
-
-### v1 → v3
-- ✅ Removidas 4 formações duplicadas
-- ✅ Introduzidas funções híbridas (Ala, Segundo Atacante)
-- ✅ Rebalanceamento de 51 jogadores (overalls mais realistas)
-- ✅ Delay nos bots (+500ms para melhor acompanhamento)
-- ✅ Indicadores visuais de funções híbridas
-- ✅ Orçamento padrão aumentado para 185M
-
-Veja `patch-notes.md` para detalhes completos.
 
 ---
 
