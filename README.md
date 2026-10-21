@@ -97,13 +97,6 @@ cd football-auction
 python3 -m http.server 8000
 # Acesse http://localhost:8000
 ```
-
-### Online (GitHub Pages)
-1. Fork este repositório
-2. Vá para **Settings → Pages**
-3. Selecione **Deploy from a branch → main**
-4. Acesse `https://seu-usuario.github.io/football-auction`
-
 ---
 
 ## 📊 Formações Disponíveis
