@@ -179,14 +179,15 @@ Este projeto é de código aberto sob a licença **CC BY-NC-SA 4.0**.
 ## 📧 Contato
 goodtimeswilliam@gmail.com
 
-Desenvolvido com ⚽ e ☕.
-
 **Perguntas?** Abra uma issue no GitHub ou entre em contato.
 
 ---
 
 **Versão:** beta 0.3.1  
 **Última atualização:** 20 de outubro de 2026
+
+*Jogue Agora!!*
+*https://gwxbontempo.github.io/Football-Auction/*
 
 ---
 
